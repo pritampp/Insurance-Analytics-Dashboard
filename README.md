@@ -70,4 +70,8 @@ This project demonstrates the ability to transform complex insurance and financi
 # 📸 Dashboard Preview
 
 This dashboard provides a comprehensive analysis of insurance claims, policy performance, customer demographics, and financial risk metrics, enabling data-driven decision-making for operational efficiency and business growth.
-![Insurance Analytics Dashboard](https://github.com/pritampp/Pizza-Sales-Dashboard/blob/main/Pizza%20Sales%20Analytics.png)
+
+![Insurance Analytics Dashboard](https://github.com/pritampp/Insurance-Analytics-Dashboard/raw/main/Screenshot%202026-05-14%20205845.png)
+
+![Insurance Analytics Dashboard 2](https://github.com/pritampp/Insurance-Analytics-Dashboard/raw/main/Screenshot%202026-05-14%20205929.png)
+
