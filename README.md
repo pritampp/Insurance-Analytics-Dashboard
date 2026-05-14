@@ -66,3 +66,8 @@ Support operational and financial decision-making through actionable insights
 💡 **Key Takeaway**
 
 This project demonstrates the ability to transform complex insurance and financial data into a scalable, insight-driven BI solution. It combines advanced analytics, KPI tracking, and business storytelling to support strategic decision-making within the insurance domain.
+
+# 📸 Dashboard Preview
+
+This dashboard provides a comprehensive analysis of insurance claims, policy performance, customer demographics, and financial risk metrics, enabling data-driven decision-making for operational efficiency and business growth.
+![Insurance Analytics Dashboard](https://github.com/pritampp/Pizza-Sales-Dashboard/blob/main/Pizza%20Sales%20Analytics.png)
